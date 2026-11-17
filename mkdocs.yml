@@ -1,0 +1,16 @@
+site_name: DevOps Operations Handbook
+site_description: Учебная документация по проверке и публикации изменений
+site_author: "Александров Егор Вадимович"
+repo_name: AcidicAcidity/devops-docs
+repo_url: https://github.com/AcidicAcidity/devops-docs
+
+theme:
+  name: mkdocs
+  locale: ru
+
+nav:
+  - Главная: index.md
+  - Эксплуатация: runbook.md
+  - Журнал инцидентов: incidents.md
+
+
