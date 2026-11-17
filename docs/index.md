@@ -12,3 +12,4 @@
 4. GitHub Pages публикует артифакт сборки.
 
 Адрес будующего сайта: `https://AcidicAcidity.github.io/devops-docs/`
+
