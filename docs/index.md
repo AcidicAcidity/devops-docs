@@ -13,4 +13,3 @@
 
 Адрес будующего сайта: `https://AcidicAcidity.github.io/devops-docs/`
 
-[ERROR ADDR](miss.md)
